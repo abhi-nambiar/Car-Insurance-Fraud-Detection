@@ -1,4 +1,4 @@
-**#Car-Insurance-Fraud-Detection**
+**Car-Insurance-Fraud-Detection**
 
 **Problem Statement:**
 Identify common characteristics associated with car insurance fraud using a dataset of 15,400 claims with 33 attributes.
